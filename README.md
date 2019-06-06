@@ -1,0 +1,1 @@
+# react_static-posts-list
